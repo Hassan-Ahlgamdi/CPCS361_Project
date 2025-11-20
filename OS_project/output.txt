@@ -1,0 +1,40 @@
+CONFIG at 2.00: mem=100 devices=1 scheduler=DynamicRR
+
+-------------------------------------------------------
+System Status:                                         
+-------------------------------------------------------
+          Time: 999999.00
+  Total Memory: 100
+ Avail. Memory: 100
+ Total Devices: 1
+Avail. Devices: 1
+
+Jobs in Ready List                                      
+--------------------------------------------------------
+  EMPTY
+
+Jobs in Long Job List                                   
+--------------------------------------------------------
+  EMPTY
+
+Jobs in Hold List 1                                     
+--------------------------------------------------------
+  EMPTY
+
+Jobs in Hold List 2                                     
+--------------------------------------------------------
+  EMPTY
+
+
+Finished Jobs (detailed)                                
+--------------------------------------------------------
+  Job    ArrivalTime     CompleteTime     TurnaroundTime    WaitingTime
+------------------------------------------------------------------------
+  1      0.00            5.00             5.00              0.00
+  2      0.00            17.00            17.00             10.00
+  3      0.00            19.00            19.00             14.00
+  4      0.00            20.00            20.00             17.00
+Total Finished Jobs:             4
+
+
+--- Simulation finished at time 999999.0 ---
